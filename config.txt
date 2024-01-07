@@ -1,0 +1,9 @@
+[BASICS]
+width = 800
+height = 600
+listLength = 100
+listType = shuffled
+comparisonsPerSecond = 100
+
+[ALGORITHMS]
+algorithmsList = QuickSort,  MergeSort, BubbleSort, SelectionSort
