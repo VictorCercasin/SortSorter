@@ -7,7 +7,7 @@ A shuffled list of numbers, represented by bars of different lengths, is sorted 
 
 ## Usage
 
-* To run the program, make sure to have python 3.8 or higher and pygame installed. Run the program with the command 'python3 main.py'.
+* Make sure to have python 3.8 or higher and pygame installed. Run the program with the command 'python3 main.py'.
 ```
 pip install pygame
 python3 main.py
