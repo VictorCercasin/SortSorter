@@ -1,6 +1,6 @@
 # SortSorter
 
-> This script was inspired by those satisfying videos that compare different sorting algorithms, but it allows you to easily create, test and compare your own.
+> This script was inspired by those satisfying [videos](https://www.youtube.com/watch?v=kPRA0W1kECg&t=148s&ab_channel=TimoBingmann) that compare different sorting algorithms, but it allows you to easily create, test and compare your own.
 A shuffled list of numbers, represented by bars of different lengths, is sorted by each algorithm simuntaniously and in real time. The number of comparisons and item swaps is shown for each one.
 
 <img src="SortSorter.png" alt="SortSorter">
