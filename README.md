@@ -22,13 +22,13 @@ python3 main.py
 
 ## Config file
 
-1) "width" and "heigh": screen dimensions in pixels.
-2) "listLength": size of the list to be sorted. Can't be larger than the screen width.
-3) "comparisonsPerSecond": controls the duration of the artificial delay in comparisons.
-4) "listType": Determines the type of list to be sorted. Changes the expected cost of some algorithms
-* "reversed" : list sorted in the reverse order 
-* "shuffled": list shuffled
-5) "algorithmsList": list of algorithms in the ./algorithms folder to be executed.
+1) "width" and "heigh": Screen dimensions in pixels.
+2) "listLength": Size of the list to be sorted. Can't be larger than the screen width.
+3) "comparisonsPerSecond": Controls the duration of the artificial delay in comparisons. It's very that accurate when se too high.
+4) "listType": Determines the type of list to be sorted. Changes the expected cost of some algorithms.
+* "reversed" : Generates a list sorted in the reverse order.
+* "shuffled": Generates a shuffled list.
+5) "algorithmsList": List of algorithms in the ./algorithms folder to be executed.
 
  Created by [Victor Hugo Cercasin](https://github.com/VictorCercasin/SortSorter)
  Project's [GitHub](https://github.com/VictorCercasin/) page
