@@ -1,6 +1,6 @@
 [BASICS]
-width = 800
-height = 600
+width = 1300
+height = 1000
 listLength = 100
 listType = shuffled
 comparisonsPerSecond = 100

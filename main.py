@@ -70,7 +70,7 @@ while True:
             exit
     screen.fill((0, 0, 0))
     for i, alg in enumerate(listOfLists):
-        AlgDrawerRanderer(pygame, screen, listOfLists[i], (0, algHeigh * i, 800, algHeigh), listOfInfo[i], algsList[i])
+        AlgDrawerRanderer(pygame, screen, listOfLists[i], (0, algHeigh * i, width, algHeigh), listOfInfo[i], algsList[i])
     pygame.display.update()
     clock.tick(60)
 
