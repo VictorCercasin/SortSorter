@@ -1,6 +1,6 @@
 # SortSorter
 
-> This script was inspired by those satisfying [videos](https://www.youtube.com/watch?v=kPRA0W1kECg&t=148s&ab_channel=TimoBingmann) that compare different sorting algorithms, but it allows you to easily create, test and compare your own.
+> This script was inspired by those satisfying [videos](https://www.youtube.com/watch?v=kPRA0W1kECg) that compares different sorting algorithms, but it allows you to easily create, test and compare your own.
 A shuffled list of numbers, represented by bars of different lengths, is sorted by each algorithm simuntaniously and in real time. The number of comparisons and item swaps is shown for each one.
 
 <img src="SortSorter.png" alt="SortSorter">
@@ -24,7 +24,7 @@ python3 main.py
 
 1) "width" and "heigh": Screen dimensions in pixels.
 2) "listLength": Size of the list to be sorted. Can't be larger than the screen width.
-3) "comparisonsPerSecond": Controls the duration of the artificial delay in comparisons. It's very that accurate when se too high.
+3) "comparisonsPerSecond": Controls the duration of the artificial delay in comparisons. It's not that accurate when se too high.
 4) "listType": Determines the type of list to be sorted. Changes the expected cost of some algorithms.
 * "reversed" : Generates a list sorted in the reverse order.
 * "shuffled": Generates a shuffled list.
