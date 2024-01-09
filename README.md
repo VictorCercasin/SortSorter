@@ -7,7 +7,7 @@ A shuffled list of numbers, represented by bars of different lengths, is sorted 
 
 ## Usage
 
-* To run the program, make sure to have python 3.8 or higher and pygame installed.Run the program with the command 'python3 main.py'.
+* To run the program, make sure to have python 3.8 or higher and pygame installed. Run the program with the command 'python3 main.py'.
 ```
 pip install pygame
 python3 main.py
@@ -15,7 +15,7 @@ python3 main.py
 * Selection Sort, Merge Sort, Quick Sort and Bubble Sort are already implemented (optimizing them should be fun!)
 
 ## Build your own algorithm
-1) Create a new .py file inside the ./algorithms folder. Use Template.py as a guide.
+1) Create a new .py file inside the ./algorithms folder. Use "Template.py" as a guide.
 * Make sure to use exclusively the provided methods for comparing and swapping items. Use the list index methods when possible
 * Avoid auxiliary lists to maintain visual consistancy and for an additional challenge.
 2) Include the new algorithm name in the "config.txt" file, in the "algorithmsList" field.
